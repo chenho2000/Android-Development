@@ -1,0 +1,6 @@
+com.example.geoquiz.test.app-annotation-experimental-1.3.0-0 C:\Users\tommy\.gradle\caches\transforms-3\86741f3aca2d501c2f3dfb86814efcef\transformed\annotation-experimental-1.3.0\res
+com.example.geoquiz.test.app-core-1.5.0-1 C:\Users\tommy\.gradle\caches\transforms-3\93ac34a8740ae1a84e0b1a6357603ebd\transformed\core-1.5.0\res
+com.example.geoquiz.test.app-androidTest-2 F:\Android-Development\GeoQuiz\app\build\generated\res\resValues\androidTest\debug
+com.example.geoquiz.test.app-mergeDebugAndroidTestResources-3 F:\Android-Development\GeoQuiz\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.geoquiz.test.app-mergeDebugAndroidTestResources-4 F:\Android-Development\GeoQuiz\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.geoquiz.test.app-merged_res-5 F:\Android-Development\GeoQuiz\app\build\intermediates\merged_res\debugAndroidTest
